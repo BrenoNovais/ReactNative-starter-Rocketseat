@@ -1,7 +1,7 @@
 # ReactNative-starter-Rocketseat
 https://app.rocketseat.com.br/node/curso-react-native
 
-# Tópicos
+# Em andamento.
 
 
 # O que é React Native?
@@ -11,3 +11,5 @@ https://app.rocketseat.com.br/node/curso-react-native
 # O que são componentes?
 
 # Configurando navegação
+
+# ...
